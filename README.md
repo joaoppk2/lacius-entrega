@@ -2,6 +2,12 @@
 
 Referência visual completa para avaliação e integração pela equipe da empresa. Proposta não oficial, sem backend ou ligação com os dados reais do produto. Inclui HTML, CSS, JavaScript, logo PNG e quatro fotos locais do site original, utilizados com autorização informada por quem solicitou a proposta. O envio não concede uma licença geral sobre a marca ou as imagens.
 
+## Ver a página pronta
+
+Abra https://joaoppk2.github.io/lacius-redesign/ no navegador. Não precisa instalar nem executar nada para avaliar o visual.
+
+Código da página publicada: https://github.com/joaoppk2/lacius-redesign. Este repositório de entrega contém a referência para integração pelo Codex.
+
 ## Usar no Codex
 
 Anexe este repositório ao ambiente do Codex ou permita que ele o clone. Só colar um link não garante acesso: o ambiente precisa conseguir ler o GitHub e também o projeto que receberá o visual.
